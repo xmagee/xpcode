@@ -20,3 +20,7 @@ yellow: '#FCCF03'
 * `$ git clone https://github.com/xmagee/xpcode.git && cd xpcode`
 * `$ vsce package`
 * install in VSCode/VSCodium via VSIX
+
+## install this
+VSCode: https://marketplace.visualstudio.com/items?itemName=xmagee.xpcode
+VSCodium: https://open-vsx.org/extension/xmagee/xpcode
