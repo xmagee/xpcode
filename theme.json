@@ -90,7 +90,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#303030",
+        "foreground": "#606060",
         "fontStyle": "italic"
       }
     },

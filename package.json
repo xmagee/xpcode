@@ -1,7 +1,7 @@
 {
   "name": "xpcode",
-  "version": "1.0.0",
-  "description": "My VSCode theme",
+  "version": "1.1.0",
+  "description": "Dark code theme, based on the Windows XP Blue color palette.",
   "categories": [
     "Themes"
   ],
@@ -14,9 +14,10 @@
       }
     ]
   },
+  "icon": "ext_icon.ico",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xmagee/xpcode.git"
+    "type": "https",
+    "url": "https://github.com/xmagee/xpcode.git"
   },
   "author": "xmagee",
   "publisher": "xmagee",

@@ -2,7 +2,7 @@
 
 My VSCode theme, made with [vscode-theme-generator-quick-start](https://github.com/Tyriar/vscode-theme-generator-quick-start)
 
-![xpcode preview image](https://raw.githubusercontent.com/xmagee/xpcode/main/theme_img_1.png)
+![xpcode preview image](https://raw.githubusercontent.com/xmagee/xpcode/main/1.0.1.png)
 
 Color palette: 
 ```
@@ -13,3 +13,10 @@ red: '#DE482B',
 green: '#81C046',
 yellow: '#FCCF03'
 ```
+
+## build this 
+* install vsce if not already installed: 
+    * `$ npm i -g vsce`
+* `$ git clone https://github.com/xmagee/xpcode.git && cd xpcode`
+* `$ vsce package`
+* install in VSCode/VSCodium via VSIX
