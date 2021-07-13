@@ -1,0 +1,31 @@
+{
+  "name": "xpcode",
+  "version": "1.0.0",
+  "description": "My VSCode theme",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "xpcode",
+        "uiTheme": "vs-dark",
+        "path": "./theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmagee/xpcode.git"
+  },
+  "author": "xmagee",
+  "publisher": "xmagee",
+  "license": "",
+  "engines": {
+    "vscode": "^1.11.0"
+  },
+  "bugs": {
+    "url": "https://github.com/xmagee/xpcode/issues"
+  },
+  "homepage": "https://github.com/xmagee/xpcode#readme"
+}
