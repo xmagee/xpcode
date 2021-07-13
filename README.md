@@ -22,5 +22,5 @@ yellow: '#FCCF03'
 * install in VSCode/VSCodium via VSIX
 
 ## install this
-VSCode: https://marketplace.visualstudio.com/items?itemName=xmagee.xpcode
-VSCodium: https://open-vsx.org/extension/xmagee/xpcode
+- VSCode: https://marketplace.visualstudio.com/items?itemName=xmagee.xpcode
+- VSCodium: https://open-vsx.org/extension/xmagee/xpcode
